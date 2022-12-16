@@ -3,10 +3,10 @@
 #
 
 # Name of site
-name: now-jekyll
+name: now
 
 # Short bio or description (displayed in the header)
-description: Blog Backend Developer from Uruguay
+description: Developer from Uruguay
 
 # URL of avatar
 avatar: https://avatars.githubusercontent.com/u/47761214?v=4
@@ -23,7 +23,7 @@ footer-links:
  # flickr:
   github: https://github.com/nicoramos28/now-jekyll
 #  instagram:
-  linkedin: https://www.linkedin.com/in/nicolas-ramos-marset-8872631b7
+  linkedin: www.linkedin.com/in/nicolas-ramos-marset
 #  pinterest:
 #  rss: # just type anything here for a working RSS icon
 #  twitter: jekyllrb
